@@ -2769,7 +2769,6 @@ components:
         - cash
         - gift
         - reservation_deposit
-        - advancement_of_inheritance
         - third_pillar
         - pension_fund
         - third_party_loan
@@ -2802,16 +2801,23 @@ components:
         - easements_contracts
         - owner_association
         - contract_for_the_establishment
-        - mortgage_note
-        - mortgage_note_erection
         - salary_certificate_month
         - salary_certificate_year
         - consent_form
         - debt_information
         - divorce_copy
         - building_plan
-        - survey_copy
         - cubical_calculation
+        - proof_of_identity
+        - leasing_and_private_loan
+        - register_of_contaminated_sites
+        - description_of_constuction
+        - building_right_documents
+        - renovations_previous
+        - renovations_planned
+        - construction_credit_documents
+        - iazi_cifi
+        - easements_contracts
         - other
     # ---------
 
